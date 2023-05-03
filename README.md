@@ -2,9 +2,17 @@
 
 - a mini event application that used NextJS
 
+### Run Application:
+
+- Clone this repo
+- run `npm install`
+- run `npm run dev` on localhost port `:3000`
+
 ### Technology Used::
 
 - NextJS
+- Module CSS
+- NextJS Hooks: useRouter, useRef
 
 ### Feature Description:
 
